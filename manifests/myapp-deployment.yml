@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: dockerkubapp
-        image: hokipoki123/dockerkub:v1
+        image: hokipoki123/dockerkub:v2
         ports:
         - containerPort: 80
